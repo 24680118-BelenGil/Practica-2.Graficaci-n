@@ -62,6 +62,6 @@ while angulo_actual <360:
 ## Resultado
 ¡¡LISTO!! Ahora puedes crear tu flor de vida 🏵️, cambia las variables para visulizar diferente resultdos.😊
 
-[Da click aquí para ver el código](./Flor_de_vida.py) 
+[Da click aquí para ver el código](./Flor-de-vida.py) 
 
 <img width="1048" height="641" alt="Captura de pantalla 2026-02-14 112707" src="https://github.com/user-attachments/assets/3ee1223c-61e0-4242-bd51-8c9e4e74042a" />
